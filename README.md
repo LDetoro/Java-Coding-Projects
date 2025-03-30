@@ -6,7 +6,7 @@ This repository contains Java implementations of various data structures and alg
 - **Arrays & Linked Lists**  
   - Singly Linked List, Doubly Linked List, Circular Linked List
 - **Input/Output and Exception Handling**
-  _ Reading and writing text files, Exception Handling
+  - Reading and writing text files, Exception Handling
 - **Objects and Classes**
   - Implementing a class, Object Reference, packages
 - **Inheritance and Interfaces**
